@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Testing Table | Heading 2
+--------------|-------------
+Content 1 | Content 2
 Use the left arrow to go back!
